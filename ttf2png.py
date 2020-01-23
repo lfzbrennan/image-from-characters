@@ -1,3 +1,11 @@
+####
+'''
+forked from https://github.com/sl2/TTF-to-PNG
+not my work
+
+'''
+####
+
 #!/usr/bin/env python
 import sys
 import os

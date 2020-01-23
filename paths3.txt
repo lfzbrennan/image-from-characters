@@ -1,5 +1,0 @@
-mainframe-bb.regular_bar_48.png
-mainframe-bb.regular_backslash_48.png
-mainframe-bb.regular_slash_48.png
-mainframe-bb.regular_space_48.png
-mainframe-bb.regular_underscore_48.png
