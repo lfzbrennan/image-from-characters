@@ -1,6 +1,12 @@
 <h1>Image From Characters</h1>
 Turns an image into an image built from command line characters. See ./examples from example transformation. create.py creates a transformed image and also prints out the image using command line characters. Image is first transformed into an image with edges using Pytorch HED, then transformed into an image made up of characters using a simple regression algorithm on sorted blocks. 
-
+<br>
+<h2>Input</h2>
+<img src="./examples/bob.jpg">
+<br>
+<h2>Output</h2>
+<img src="./examples/out.jpg">
+<br>
 
 Example usage:
 <code>
